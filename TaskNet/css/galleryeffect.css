@@ -11,8 +11,8 @@
 	display: block;
 }
 .lb-album li a{
-	width: 150px;
-	height: 150px;
+	width: 100px;
+	height: 100px;
 	position: relative;
 	padding: 10px;
 	background: none;
